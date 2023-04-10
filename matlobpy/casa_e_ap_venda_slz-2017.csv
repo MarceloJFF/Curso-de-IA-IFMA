@@ -1,0 +1,396 @@
+id,tipo,acao,cidade,bairro,dorm,suite,vaga,preco,imobiliaria
+0,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,2,2,450000,Pereira Feitosa
+1,Apartamento,Venda,São Luís/MA,Renascença,3,1,1,350000,Pereira Feitosa
+2,Apartamento,Venda,São Luís/MA,Calhau,3,0,1,285000,Pereira Feitosa
+3,Apartamento,Venda,São Luís/MA,Calhau,0,2,2,260000,Pereira Feitosa
+4,Casa,Venda,São Luís/MA,Apeadouro,2,1,3,400000,Pereira Feitosa
+5,Casa,Venda,São Luís/MA,Centro,2,0,0,170000,Pereira Feitosa
+6,Casa,Venda,São Luís/MA,Fátima,2,0,1,200000,Pereira Feitosa
+7,Casa,Venda,São Luís/MA,Araçagi,3,3,3,495000,Pereira Feitosa
+8,Casa,Venda,São José de Ribamar/MA,Maiobão,2,0,0,105000,Pereira Feitosa
+9,Apartamento,Venda,São Luís/MA,Ponta da areia,1,0,1,220000,Pereira Feitosa
+10,Apartamento,Venda,São Luís/MA,Cohafuma,2,0,1,150000,Pereira Feitosa
+11,Apartamento,Venda,São Luís/MA,Jardim Renascença,0,0,2,490000,Pereira Feitosa
+12,Casa,Venda,São Luís/MA,São Francisco,4,0,1,350000,Pereira Feitosa
+13,Casa,Venda,São Luís/MA,Turu,1,1,2,320000,Pereira Feitosa
+14,Casa,Venda,São Luís/MA,Cohajap,0,0,0,700000,Pereira Feitosa
+15,Apartamento,Venda,São Luís/MA,Calhau,2,1,0,280000,Pereira Feitosa
+16,Apartamento,Venda,São José de Ribamar/MA,Maiobinha,1,1,0,185000,Pereira Feitosa
+17,Apartamento,Venda,São José de Ribamar/MA,Maiobinha,1,1,1,185000,Pereira Feitosa
+18,Apartamento,Venda,São José de Ribamar/MA,Maiobinha,1,1,1,185000,Pereira Feitosa
+19,Apartamento,Venda,São José de Ribamar/MA,Renascer,1,1,1,185000,Pereira Feitosa
+20,Apartamento,Venda,São José de Ribamar/MA,Maiobinha,1,1,1,185000,Pereira Feitosa
+21,Apartamento,Venda,São José de Ribamar/MA,Maiobinha,1,1,0,185000,Pereira Feitosa
+22,Casa,Venda,São Luís/MA,São Francisco,3,0,0,570000,Pereira Feitosa
+23,Apartamento,Venda,São José de Ribamar/MA,Renascer,1,1,1,185000,Pereira Feitosa
+24,Apartamento,Venda,São José de Ribamar/MA,Maiobinha,1,1,0,185000,Pereira Feitosa
+25,Apartamento,Venda,São Luís/MA,Chácara Brasil,2,0,1,90000,Pereira Feitosa
+26,Apartamento,Venda,São Luís/MA,Turu,2,0,1,145000,Pereira Feitosa
+27,Apartamento,Venda,São Luís/MA,Parque Shalon,1,1,1,280000,Pereira Feitosa
+28,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,1,350000,Pereira Feitosa
+29,Casa,Venda,São Luís/MA,Cohama,5,0,1,340000,Pereira Feitosa
+30,Casa,Venda,São Luís/MA,Residencial Paraíso,3,2,3,380000,Pereira Feitosa
+31,Apartamento,Venda,São Luís/MA,Olho D Água,6,4,4,900000,Pereira Feitosa
+32,Casa,Venda,São Luís/MA,Araçagi,4,3,3,3100,Pereira Feitosa
+33,Casa,Venda,São Luís/MA,Cohaserma,2,1,2,500000,Pereira Feitosa
+34,Casa,Venda,São José de Ribamar/MA,Araçagy,3,2,6,330000,Pereira Feitosa
+35,Casa,Venda,São Luís/MA,Divinéia,2,1,0,150000,Pereira Feitosa
+36,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,2,480000,Pereira Feitosa
+37,Apartamento,Venda,São Luís/MA,Ponta do Farol,3,3,2,590000,Pereira Feitosa
+38,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,2,2,390000,Pereira Feitosa
+39,Apartamento,Venda,São Luís/MA,Filipinho,0,0,0,110000,Pereira Feitosa
+40,Apartamento,Venda,São Luís/MA,Turu,2,1,0,240000,Pereira Feitosa
+41,Casa,Venda,São Luís/MA,Recanto Vinhais,7,1,8,1100000,Pereira Feitosa
+42,Apartamento,Venda,São Luís/MA,Ponta D Areia,5,3,3,1250000,Pereira Feitosa
+43,Apartamento,Venda,São Luís/MA,Turu,2,0,1,145000,Pereira Feitosa
+44,Apartamento,Venda,São Luís/MA,Cohafuma,1,1,1,260000,Pereira Feitosa
+45,Apartamento,Venda,São Luís/MA,Maiobinha,0,0,0,30000,Pereira Feitosa
+46,Apartamento,Venda,São Luís/MA,Angelim,2,0,0,100000,Pereira Feitosa
+47,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,3,1,850000,Pereira Feitosa
+48,Casa,Venda,São Luís/MA,Jardim Eldorado,4,4,4,700000,Pereira Feitosa
+49,Casa,Venda,São Luís/MA,Turu,2,1,0,240000,Pereira Feitosa
+50,Casa,Venda,São Luís/MA,Monte Castelo,5,2,2,650000,Pereira Feitosa
+51,Apartamento,Venda,São Luís/MA,Ponta do Farol,0,0,0,720000,Pereira Feitosa
+52,Apartamento,Venda,São Luís/MA,Alemanha,2,0,1,700,Pereira Feitosa
+53,Casa,Venda,São Luís/MA,Turu,2,1,0,320000,Pereira Feitosa
+54,Casa,Venda,São Luís/MA,Cohafuma,4,0,3,300000,Pereira Feitosa
+55,Casa,Venda,São Luís/MA,COHAB Anil IV,2,1,2,320000,Pereira Feitosa
+56,Casa,Venda,São Luís/MA,Parque Athenas,3,2,2,470000,Pereira Feitosa
+57,Apartamento,Venda,São Luís/MA,Cohama,1,1,1,170000,Pereira Feitosa
+58,Apartamento,Venda,São Luís/MA,Parque Shalon,2,1,1,450000,Pereira Feitosa
+59,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,1,440000,Pereira Feitosa
+60,Apartamento,Venda,São Luís/MA,Parque Athenas,2,1,1,160000,Pereira Feitosa
+61,Apartamento,Venda,São Luís/MA,Angelim,2,0,1,160000,Pereira Feitosa
+62,Apartamento,Venda,São Luís/MA,Calhau,4,2,2,980000,Pereira Feitosa
+63,Casa,Venda,São Luís/MA,Olho D Água,3,3,3,425000,Pereira Feitosa
+64,Casa,Venda,São Luís/MA,Cohafuma,0,0,0,320000,Pereira Feitosa
+65,Apartamento,Venda,São Luís/MA,COHAB Anil III,2,0,2,100000,Pereira Feitosa
+66,Apartamento,Venda,São Luís/MA,Turu,2,0,1,140000,Pereira Feitosa
+67,Casa,Venda,São Luís/MA,Turu,3,1,2,160000,Pereira Feitosa
+68,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,1,1000,Pereira Feitosa
+69,Apartamento,Venda,São Luís/MA,Ponta do Farol,4,4,3,1200000,Pereira Feitosa
+70,Casa,Venda,São Luís/MA,Cidade Operária,5,4,3,900000,Pereira Feitosa
+71,Casa,Venda,São José de Ribamar/MA,Renascer,0,0,2,600000,Pereira Feitosa
+72,Casa,Venda,São Luís/MA,Olho D Água,5,4,14,1400000,Pereira Feitosa
+73,Apartamento,Venda,São Luís/MA,Recanto Vinhais,2,1,0,190000,Pereira Feitosa
+74,Apartamento,Venda,São Luís/MA,Quintas do Calhau,0,0,0,130000,Pereira Feitosa
+75,Casa,Venda,São José de Ribamar/MA,Alto Do Jaguarema,0,0,2,260000,Pereira Feitosa
+76,Apartamento,Venda,São Luís/MA,Quintas do Calhau,1,0,1,140000,Pereira Feitosa
+77,Apartamento,Venda,São Luís/MA,Recanto dos Vinhais,2,0,1,150000,Pereira Feitosa
+78,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,2,600000,Pereira Feitosa
+79,Apartamento,Venda,São Luís/MA,Calhau,3,2,2,550000,Pereira Feitosa
+80,Apartamento,Venda,São Luís/MA,Jardim São Francisco,1,1,1,390000,Pereira Feitosa
+81,Casa,Venda,São Luís/MA,Cohatrac I,4,1,2,350000,Pereira Feitosa
+82,Casa,Venda,São José de Ribamar/MA,Araçagy,4,0,0,600000,Pereira Feitosa
+83,Casa,Venda,São Luís/MA,Planalto Vinhais II,3,2,3,400000,Pereira Feitosa
+84,Casa,Venda,São Luís/MA,Cohafuma,2,1,3,900000,Pereira Feitosa
+85,Apartamento,Venda,São Luís/MA,Cohama,1,1,1,140000,Pereira Feitosa
+86,Apartamento,Venda,São Luís/MA,Turu,3,1,0,330000,Pereira Feitosa
+87,Casa,Venda,São Luís/MA,Cohafuma,4,2,0,460000,Pereira Feitosa
+88,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,2,400000,Pereira Feitosa
+89,Casa,Venda,São Luís/MA,Jardim São Francisco,0,0,0,1200000,Pereira Feitosa
+90,Casa,Venda,São Luís/MA,Vinhais,3,2,6,600000,Pereira Feitosa
+91,Casa,Venda,São Luís/MA,Turu,2,1,2,400000,Pereira Feitosa
+92,Apartamento,Venda,São Luís/MA,Jardim São Francisco,1,1,1,240000,Pereira Feitosa
+93,Apartamento,Venda,São Luís/MA,Parque Athenas,3,2,2,300000,Pereira Feitosa
+94,Casa,Venda,São Luís/MA,Calhau,8,0,10,1000000,Pereira Feitosa
+95,Casa,Venda,São Luís/MA,Jardim Eldorado,3,0,2,500000,Pereira Feitosa
+96,Casa,Venda,São José de Ribamar/MA,Araçagy,1,1,4,300000,Pereira Feitosa
+97,Apartamento,Venda,São Luís/MA,Angelim,2,0,0,130000,Pereira Feitosa
+98,Casa,Venda,São Luís/MA,Calhau,2,1,4,980000,Pereira Feitosa
+99,Apartamento,Venda,São Luís/MA,Calhau,4,4,4,3000000,Pereira Feitosa
+100,Apartamento,Venda,São Luís/MA,Turu,3,1,1,195000,Pereira Feitosa
+101,Apartamento,Venda,São Luís/MA,Calhau,1,0,1,800000,Pereira Feitosa
+102,Casa,Venda,São José de Ribamar/MA,Araçagy,0,0,2,380000,Pereira Feitosa
+103,Apartamento,Venda,São Luís/MA,Ponta D Areia,2,1,0,670000,Pereira Feitosa
+104,Casa,Venda,São Luís/MA,Cohaserma,4,2,5,500000,Pereira Feitosa
+105,Apartamento,Venda,São Luís/MA,Cohafuma,2,1,0,350000,Pereira Feitosa
+106,Casa,Venda,São Luís/MA,Planalto Vinhais II,2,0,0,240000,Pereira Feitosa
+107,Casa,Venda,São Luís/MA,Cohafuma,3,1,3,297000,Pereira Feitosa
+108,Casa,Venda,São Luís/MA,Vivendas Do Turu,2,0,4,1400,Pereira Feitosa
+109,Casa,Venda,São Luís/MA,Tirirical,3,1,3,320000,Pereira Feitosa
+110,Casa,Venda,São Luís/MA,São Bernardo,2,1,3,300000,Pereira Feitosa
+111,Casa,Venda,São Luís/MA,Chácara Brasil,2,0,4,250000,Pereira Feitosa
+112,Casa,Venda,São José de Ribamar/MA,Araçagy,5,3,8,1200000,Pereira Feitosa
+113,Casa,Venda,São Luís/MA,Calhau,4,3,6,1600000,Pereira Feitosa
+114,Casa,Venda,São Luís/MA,Quintas do Calhau,0,3,2,2000000,Pereira Feitosa
+115,Casa,Venda,São Luís/MA,Areinha,0,0,2,260000,Pereira Feitosa
+116,Casa,Venda,São Luís/MA,Vinhais,2,1,2,300000,Pereira Feitosa
+117,Apartamento,Venda,São Luís/MA,Jardim Renascença,1,0,0,180000,Pereira Feitosa
+118,Casa,Venda,São Luís/MA,Ipase,3,0,4,500000,Pereira Feitosa
+119,Apartamento,Venda,São Luís/MA,Turu,2,1,1,130000,Pereira Feitosa
+120,Apartamento,Venda,São Luís/MA,Jardim São Francisco,2,1,2,435000,Pereira Feitosa
+121,Casa,Venda,São Luís/MA,COHAB Anil IV,4,2,2,380000,Pereira Feitosa
+122,Apartamento,Venda,São Luís/MA,Forquilha,3,1,1,150000,Pereira Feitosa
+123,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,2,2,750000,Pereira Feitosa
+124,Casa,Venda,São Luís/MA,Calhau,5,5,4,2800000,Pereira Feitosa
+125,Casa,Venda,São Luís/MA,Alameda dos Sonhos,2,0,5,200000,Pereira Feitosa
+126,Apartamento,Venda,São Luís/MA,Jardim São Francisco,3,3,3,1200000,Pereira Feitosa
+127,Casa,Venda,São Luís/MA,Jardim São Francisco,4,1,4,550000,Pereira Feitosa
+128,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,2,2,600000,Pereira Feitosa
+129,Casa,Venda,São Luís/MA,Centro,3,0,1,180000,Pereira Feitosa
+130,Apartamento,Venda,São Luís/MA,Calhau,3,3,0,1150000,Pereira Feitosa
+131,Apartamento,Venda,São Luís/MA,Quintas do Calhau,0,0,0,135000,Pereira Feitosa
+132,Casa,Venda,São Luís/MA,Parque Smithland,7,3,10,1500000,Pereira Feitosa
+133,Apartamento,Venda,São Luís/MA,Jardim Renascença,0,0,0,1300000,Pereira Feitosa
+134,Apartamento,Venda,São Luís/MA,Jardim São Francisco,1,1,0,175000,Pereira Feitosa
+135,Apartamento,Venda,São José de Ribamar/MA,Araçagy,2,1,1,210000,Pereira Feitosa
+136,Casa,Venda,São Luís/MA,Monte Castelo,4,2,2,300000,Pereira Feitosa
+137,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,1,300000,Pereira Feitosa
+138,Apartamento,Venda,São Luís/MA,Calhau,2,2,3,1000000,Pereira Feitosa
+139,Casa,Venda,São Luís/MA,Parque Universitário,4,2,5,500000,Pereira Feitosa
+140,Casa,Venda,São Luís/MA,Anil,5,2,1,450000,Pereira Feitosa
+141,Casa,Venda,São Luís/MA,Planalto Pingão,3,0,0,260000,Pereira Feitosa
+142,Apartamento,Venda,São Luís/MA,Turu,1,1,1,145000,Pereira Feitosa
+143,Apartamento,Venda,São Luís/MA,Centro,4,0,2,700000,Pereira Feitosa
+144,Casa,Venda,São Luís/MA,Araçagi,3,1,4,370000,Pereira Feitosa
+145,Apartamento,Venda,São Luís/MA,Cutim,2,0,0,140000,Pereira Feitosa
+146,Apartamento,Venda,São Luís/MA,Jardim São Francisco,2,1,0,550000,Pereira Feitosa
+147,Casa,Venda,São Luís/MA,Turu,3,1,0,450000,Pereira Feitosa
+148,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,3,2,640000,Pereira Feitosa
+149,Apartamento,Venda,São Luís/MA,Ponta D Areia,4,4,0,1800000,Pereira Feitosa
+150,Casa,Venda,São Luís/MA,Centro,0,0,0,600000,Pereira Feitosa
+151,Apartamento,Venda,São Luís/MA,Renascença,2,1,2,450000,Pereira Feitosa
+152,Casa,Venda,São Luís/MA,Cohama,2,1,2,480000,Pereira Feitosa
+153,Apartamento,Venda,São Luís/MA,Cohaserma,2,0,1,170000,Pereira Feitosa
+154,Casa,Venda,São Luís/MA,Anil,3,0,0,250000,Pereira Feitosa
+155,Apartamento,Venda,São Luís/MA,Jardim Coelho Neto,4,3,2,400000,Pereira Feitosa
+156,Casa,Venda,São Luís/MA,Vinhais,3,2,4,420000,Pereira Feitosa
+157,Apartamento,Venda,São Luís/MA,São Marcos,3,3,2,1100000,Pereira Feitosa
+158,Apartamento,Venda,São José de Ribamar/MA,Araçagy,1,1,1,170000,Pereira Feitosa
+159,Casa,Venda,São Luís/MA,Calhau,3,3,3,1300000,Pereira Feitosa
+160,Apartamento,Venda,São José de Ribamar/MA,Renascer,1,1,0,155000,Pereira Feitosa
+161,Casa,Venda,São Luís/MA,Jardim América,3,0,1,160000,Pereira Feitosa
+162,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,4,0,1300000,Pereira Feitosa
+163,Apartamento,Venda,São Luís/MA,Cohafuma,2,0,1,150000,Pereira Feitosa
+164,Casa,Venda,São Luís/MA,Olho D Água,0,0,0,2000000,Pereira Feitosa
+165,Casa,Venda,São Luís/MA,Olho D Água,0,0,3,1800000,Pereira Feitosa
+166,Casa,Venda,São Luís/MA,Jardim Renascença,3,0,3,800000,Pereira Feitosa
+167,Casa,Venda,São Luís/MA,Anil,4,3,0,470000,Pereira Feitosa
+168,Casa,Venda,São Luís/MA,Anil,4,2,4,440000,Pereira Feitosa
+169,Casa,Venda,São Luís/MA,Anil,4,1,0,570000,Pereira Feitosa
+170,Apartamento,Venda,São Luís/MA,Quintas do Calhau,1,0,0,800,Pereira Feitosa
+171,Casa,Venda,São Luís/MA,Cohatrac,2,1,3,200000,Pereira Feitosa
+172,Casa,Venda,São Luís/MA,Alto do Calhau,2,1,4,550000,Pereira Feitosa
+173,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,2,1,0,210000,Pereira Feitosa
+174,Apartamento,Venda,São Luís/MA,Jardim São Francisco,3,1,1,220000,Pereira Feitosa
+175,Casa,Venda,São Luís/MA,Parque Timbiras,2,1,0,390000,Pereira Feitosa
+176,Apartamento,Venda,São Luís/MA,Cohafuma,1,1,1,210000,Pereira Feitosa
+177,Apartamento,Venda,São Luís/MA,São Francisco,2,0,0,170000,Pereira Feitosa
+178,Apartamento,Venda,São Luís/MA,Jardim São Francisco,2,1,1,320000,Pereira Feitosa
+179,Casa,Venda,São Luís/MA,Parque Athenas,2,2,6,590000,Pereira Feitosa
+180,Apartamento,Venda,São Luís/MA,Vila Palmeira,2,1,1,200000,Pereira Feitosa
+181,Casa,Venda,São Luís/MA,Maranhão Novo,4,1,2,280000,Pereira Feitosa
+182,Casa,Venda,São Luís/MA,Parque Aurora,2,1,3,380000,Pereira Feitosa
+183,Apartamento,Venda,São Luís/MA,Jardim Renascença,4,0,3,800000,Pereira Feitosa
+184,Apartamento,Venda,São Luís/MA,Cohafuma,3,0,1,250000,Pereira Feitosa
+185,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,1,550000,Pereira Feitosa
+186,Casa,Venda,São Luís/MA,Turu,2,0,2,650000,Pereira Feitosa
+187,Apartamento,Venda,São Luís/MA,Calhau,2,1,1,320000,Pereira Feitosa
+188,Apartamento,Venda,São Luís/MA,Calhau,1,1,1,300000,Pereira Feitosa
+189,Apartamento,Venda,São Luís/MA,Calhau,2,1,1,260000,Pereira Feitosa
+190,Apartamento,Venda,São Luís/MA,Ponta da areia,2,2,2,3600,Pereira Feitosa
+191,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,3,2,660000,Pereira Feitosa
+192,Apartamento,Venda,São Luís/MA,Ponta D Areia,4,4,4,3500000,Pereira Feitosa
+193,Apartamento,Venda,São Luís/MA,Ponta D Areia,4,4,3,1800000,Pereira Feitosa
+194,Apartamento,Venda,São Luís/MA,Calhau,2,1,2,295000,Pereira Feitosa
+195,Casa,Venda,São Luís/MA,Cidade Operária,3,1,0,280000,Pereira Feitosa
+196,Apartamento,Venda,São Luís/MA,Ponta do Farol,4,4,3,2200000,Pereira Feitosa
+197,Casa,Venda,São José de Ribamar/MA,Araçagy,5,3,2,450000,Pereira Feitosa
+198,Casa,Venda,São Luís/MA,Alto do Calhau,2,1,2,400000,Pereira Feitosa
+199,Apartamento,Venda,São Luís/MA,Ponta do Farol,4,3,2,850000,Pereira Feitosa
+200,Casa,Venda,São Luís/MA,Cidade Operária,3,1,2,250000,Pereira Feitosa
+201,Apartamento,Venda,São Luís/MA,Jardim São Francisco,3,2,2,680000,Pereira Feitosa
+202,Apartamento,Venda,São Luís/MA,Maranhão Novo,2,0,1,170000,Pereira Feitosa
+203,Casa,Venda,São Luís/MA,Cohatrac IV,3,1,2,280000,Pereira Feitosa
+204,Casa,Venda,São Luís/MA,Alto do Calhau,2,1,4,450000,Pereira Feitosa
+205,Apartamento,Venda,São Luís/MA,Cohama,3,1,2,280000,Pereira Feitosa
+206,Casa,Venda,São Luís/MA,São Francisco,5,3,5,550000,Pereira Feitosa
+207,Apartamento,Venda,São Luís/MA,São Francisco,2,1,2,250000,Pereira Feitosa
+208,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,2,0,2,280000,Pereira Feitosa
+209,Casa,Venda,São Luís/MA,Parque Athenas,0,0,0,450000,Pereira Feitosa
+210,Casa,Venda,São Luís/MA,Olho D Água,2,1,7,950000,Pereira Feitosa
+211,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,0,1,350000,Pereira Feitosa
+212,Apartamento,Venda,São Luís/MA,Cohajap,3,2,2,390000,Pereira Feitosa
+213,Apartamento,Venda,São Luís/MA,Jardim Renascença,0,0,2,550000,Pereira Feitosa
+214,Apartamento,Venda,São Luís/MA,Calhau,4,4,0,1200000,Pereira Feitosa
+215,Casa,Venda,São José de Ribamar/MA,Araçagy,4,4,8,950000,Pereira Feitosa
+216,Casa,Venda,São Luís/MA,COHAB Anil I,5,0,0,395000,Pereira Feitosa
+217,Casa,Venda,Paço do Lumiar/MA,Araçagy,3,2,2,320000,Pereira Feitosa
+218,Apartamento,Venda,São Luís/MA,Calhau,3,1,2,370000,Pereira Feitosa
+219,Casa,Venda,São Luís/MA,Centro,0,0,3,350000,Pereira Feitosa
+220,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,2,450000,Pereira Feitosa
+221,Casa,Venda,São Luís/MA,Quintas do Calhau,0,0,4,1500000,Pereira Feitosa
+222,Casa,Venda,São Luís/MA,Olho D Água,4,4,2,1400000,Pereira Feitosa
+223,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,1,370000,Pereira Feitosa
+224,Casa,Venda,São Luís/MA,Centro,0,0,0,350000,Pereira Feitosa
+225,Apartamento,Venda,São Luís/MA,Olho D Água,4,4,4,2500000,Pereira Feitosa
+226,Casa,Venda,São Luís/MA,Recanto Vinhais,5,3,6,650000,Pereira Feitosa
+227,Casa,Venda,São Luís/MA,Ipase,3,2,2,370000,Pereira Feitosa
+228,Apartamento,Venda,São Luís/MA,Ponta D Areia,0,0,0,1600000,Pereira Feitosa
+229,Apartamento,Venda,São Luís/MA,Olho D Água,4,2,2,800000,Pereira Feitosa
+230,Casa,Venda,São José de Ribamar/MA,Araçagy,0,0,3,500000,Pereira Feitosa
+231,Casa,Venda,São Luís/MA,Bequimão,3,1,2,250000,Pereira Feitosa
+232,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,0,0,0,350000,Pereira Feitosa
+233,Casa,Venda,São Luís/MA,Cohajap,3,3,4,1800000,Pereira Feitosa
+234,Casa,Venda,São Luís/MA,Quintas do Calhau,3,3,2,500000,Pereira Feitosa
+235,Casa,Venda,São Luís/MA,Turu,3,2,2,450000,Pereira Feitosa
+236,Apartamento,Venda,São Luís/MA,Ponta D Areia,3,0,2,870000,Pereira Feitosa
+237,Casa,Venda,São Luís/MA,Vinhais,3,0,3,290000,Pereira Feitosa
+238,Apartamento,Venda,São Luís/MA,Ponta D Areia,0,0,2,870000,Pereira Feitosa
+239,Casa,Venda,São Luís/MA,Cohafuma,2,1,1,150000,Pereira Feitosa
+240,Casa,Venda,São Luís/MA,Madre Deus,2,0,0,85000,Pereira Feitosa
+241,Casa,Venda,São Luís/MA,Centro,3,1,1,250000,Pereira Feitosa
+242,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,0,0,0,1750000,Pereira Feitosa
+243,Casa,Venda,São Luís/MA,Quintas do Calhau,7,7,0,3000000,Pereira Feitosa
+244,Casa,Venda,São Luís/MA,Turu,2,2,0,370000,Pereira Feitosa
+245,Casa,Venda,São Luís/MA,Calhau,4,4,8,2500000,Pereira Feitosa
+246,Apartamento,Venda,São Luís/MA,Calhau,3,3,2,950000,Pereira Feitosa
+247,Apartamento,Venda,São Luís/MA,Ponta da areia,2,2,0,1100000,Pereira Feitosa
+248,Casa,Venda,São Luís/MA,Chácara Brasil,2,0,2,190000,Pereira Feitosa
+249,Casa,Venda,São Luís/MA,Centro,2,0,2,320000,Pereira Feitosa
+250,Apartamento,Venda,São Luís/MA,Cohafuma,2,1,0,358000,Pereira Feitosa
+251,Casa,Venda,São Luís/MA,Alemanha,2,2,0,160000,Pereira Feitosa
+252,Casa,Venda,São Luís/MA,João Paulo,3,1,4,1000000,Pereira Feitosa
+253,Apartamento,Venda,São Luís/MA,Calhau,2,1,1,250000,Pereira Feitosa
+254,Casa,Venda,São Luís/MA,Olho D Água,4,4,4,1850000,Pereira Feitosa
+255,Apartamento,Venda,São Luís/MA,Recanto dos Vinhais,2,1,2,310000,Pereira Feitosa
+256,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,2,1,2,320000,Pereira Feitosa
+257,Apartamento,Venda,São Luís/MA,Quintas do Calhau,1,0,1,260000,Pereira Feitosa
+258,Casa,Venda,São Luís/MA,Quintas do Calhau,4,0,3,1800000,Pereira Feitosa
+259,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,3,2,4,230000,Pereira Feitosa
+260,Casa,Venda,São Luís/MA,Residencial Pinheiros,1,4,0,580000,Pereira Feitosa
+261,Casa,Venda,São Luís/MA,Cohama,3,1,0,380000,Pereira Feitosa
+262,Apartamento,Venda,São Luís/MA,São Francisco,3,1,2,320000,Pereira Feitosa
+263,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,1,450000,Pereira Feitosa
+264,Casa,Venda,São Luís/MA,Olho D Água,8,8,5,14000000,Pereira Feitosa
+265,Apartamento,Venda,São Luís/MA,Bequimão,2,0,1,100000,Pereira Feitosa
+266,Apartamento,Venda,São Luís/MA,Calhau,2,1,1,290000,Pereira Feitosa
+267,Casa,Venda,São Luís/MA,Turu,1,1,2,330000,Pereira Feitosa
+268,Casa,Venda,São Luís/MA,João de Deus,2,1,2,250000,Pereira Feitosa
+269,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,3,3,0,350000,Pereira Feitosa
+270,Casa,Venda,São Luís/MA,Chácara Brasil,3,1,2,310000,Pereira Feitosa
+271,Apartamento,Venda,São Luís/MA,Turu,1,1,1,170000,Pereira Feitosa
+272,Casa,Venda,São Luís/MA,Centro,3,1,0,250000,Pereira Feitosa
+273,Casa,Venda,São Luís/MA,Solar dos Lusitanos,0,0,3,420000,Pereira Feitosa
+274,Casa,Venda,São Luís/MA,Cohatrac III,4,2,0,300000,Pereira Feitosa
+275,Casa,Venda,São Luís/MA,Cohatrac III,5,0,0,330000,Pereira Feitosa
+276,Apartamento,Venda,São Luís/MA,Ponta do Farol,4,3,2,820000,Pereira Feitosa
+277,Casa,Venda,São Luís/MA,Olho D Água,3,0,5,800000,Pereira Feitosa
+278,Apartamento,Venda,São Luís/MA,Angelim,2,0,1,85000,Pereira Feitosa
+279,Casa,Venda,São Luís/MA,Maranhão Novo,3,1,2,350000,Pereira Feitosa
+280,Casa,Venda,São Luís/MA,Residencial Esperança,2,0,1,250000,Pereira Feitosa
+281,Casa,Venda,São José de Ribamar/MA,Boa Viagem,2,0,0,250000,Pereira Feitosa
+282,Apartamento,Venda,São Luís/MA,Calhau,1,1,1,275000,Pereira Feitosa
+283,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,3,1,0,1500000,Pereira Feitosa
+284,Casa,Venda,São Luís/MA,Alto do Calhau,3,2,2,420000,Pereira Feitosa
+285,Casa,Venda,São Luís/MA,Quintas do Calhau,4,3,0,750000,Pereira Feitosa
+286,Casa,Venda,São Luís/MA,Parque Shalon,3,1,3,700000,Pereira Feitosa
+287,Casa,Venda,São Luís/MA,Fátima,3,0,1,300000,Pereira Feitosa
+288,Casa,Venda,Paço do Lumiar/MA,Araçagy,3,1,1,350000,Pereira Feitosa
+289,Casa,Venda,São Luís/MA,Vinhais,3,2,2,360000,Pereira Feitosa
+290,Apartamento,Venda,São Luís/MA,Ponta D Areia,4,4,4,1500000,Pereira Feitosa
+291,Casa,Venda,São Luís/MA,Parque Athenas,3,2,4,470000,Pereira Feitosa
+292,Casa,Venda,São José de Ribamar/MA,Parque Vitória,3,0,1,150000,Pereira Feitosa
+293,Casa,Venda,São Luís/MA,Turu,3,1,2,550000,Pereira Feitosa
+294,Casa,Venda,São Luís/MA,Vinhais,6,6,4,400000,Pereira Feitosa
+295,Apartamento,Venda,São Luís/MA,Centro,2,1,0,130000,Pereira Feitosa
+296,Casa,Venda,São Luís/MA,Calhau,3,3,6,1500000,Pereira Feitosa
+297,Casa,Venda,São Luís/MA,Parque Shalon,3,2,4,510000,Pereira Feitosa
+298,Casa,Venda,Paço do Lumiar/MA,Morada Nova,2,2,3,180000,Pereira Feitosa
+299,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,2,1,0,350000,Pereira Feitosa
+300,Apartamento,Venda,São Luís/MA,Jaracaty,0,0,0,340000,Pereira Feitosa
+301,Apartamento,Venda,São Luís/MA,Cohama,2,1,2,230000,Pereira Feitosa
+302,Casa,Venda,São Luís/MA,Centro,5,2,0,250000,Pereira Feitosa
+303,Casa,Venda,São Luís/MA,Residencial Pinheiros,5,1,0,300000,Pereira Feitosa
+304,Casa,Venda,São Luís/MA,Olho D Água,3,1,3,1000000,Pereira Feitosa
+305,Casa,Venda,São Luís/MA,Ipase,3,1,3,400000,Pereira Feitosa
+306,Casa,Venda,São Luís/MA,Recanto Vinhais,3,1,4,450000,Pereira Feitosa
+307,Casa,Venda,São Luís/MA,Jardim de Fátima,4,2,0,1300000,Pereira Feitosa
+308,Casa,Venda,São Luís/MA,Cohama,3,1,0,350000,Pereira Feitosa
+309,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,1,550000,Pereira Feitosa
+310,Casa,Venda,São Luís/MA,Cidade Operária,4,0,2,180000,Pereira Feitosa
+311,Casa,Venda,São Luís/MA,Alto do Calhau,2,1,2,450000,Pereira Feitosa
+312,Casa,Venda,São Luís/MA,Vila Vicente Fialho,2,1,0,330000,Pereira Feitosa
+313,Casa,Venda,São Luís/MA,Cohaserma,3,1,2,450000,Pereira Feitosa
+314,Casa,Venda,São Luís/MA,Cohajap,4,1,8,620000,Pereira Feitosa
+315,Casa,Venda,São Luís/MA,Forquilha,5,3,12,950000,Pereira Feitosa
+316,Apartamento,Venda,São Luís/MA,COHAB Turu,2,0,1,270000,Pereira Feitosa
+317,Casa,Venda,São Luís/MA,Cohatrac IV,2,1,1,300000,Pereira Feitosa
+318,Casa,Venda,São Luís/MA,Turu,3,3,2,670000,Pereira Feitosa
+319,Casa,Venda,São Luís/MA,São Francisco,3,2,4,500000,Pereira Feitosa
+320,Casa,Venda,São Luís/MA,Turu,2,0,1,190000,Pereira Feitosa
+321,Casa,Venda,São Luís/MA,Olho D Água,4,4,0,1300000,Pereira Feitosa
+322,Apartamento,Venda,São Luís/MA,Jardim Renascença,1,1,1,200000,Pereira Feitosa
+323,Apartamento,Venda,São Luís/MA,Quintas do Calhau,3,2,3,1800000,Pereira Feitosa
+324,Casa,Venda,São Luís/MA,Coheb Do Sacavém,3,1,0,230000,Pereira Feitosa
+325,Casa,Venda,São Luís/MA,Novo Angelim,2,0,2,190000,Pereira Feitosa
+326,Casa,Venda,São Luís/MA,Chácara Brasil,3,1,0,500000,Pereira Feitosa
+327,Casa,Venda,São Luís/MA,Residencial Araras,3,1,2,450000,Pereira Feitosa
+328,Casa,Venda,São Luís/MA,Jardim Coelho Neto,3,2,4,750000,Pereira Feitosa
+329,Casa,Venda,São Luís/MA,Vinhais,2,2,3,450000,Pereira Feitosa
+330,Apartamento,Venda,São Luís/MA,Quitandinha,1,1,1,265000,Pereira Feitosa
+331,Casa,Venda,São Luís/MA,Recanto dos Vinhais,2,0,3,360000,Pereira Feitosa
+332,Casa,Venda,São Luís/MA,Cohafuma,4,1,3,550000,Pereira Feitosa
+333,Casa,Venda,São Luís/MA,Turu,4,3,0,780000,Pereira Feitosa
+334,Casa,Venda,São Luís/MA,Ponta do Farol,5,0,5,2500000,Pereira Feitosa
+335,Apartamento,Venda,São Luís/MA,Cohafuma,1,1,0,390000,Pereira Feitosa
+336,Apartamento,Venda,São Luís/MA,Cohafuma,2,0,0,170000,Pereira Feitosa
+337,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,1,1,300000,Pereira Feitosa
+338,Casa,Venda,São Luís/MA,COHAB Anil IV,3,1,1,280000,Pereira Feitosa
+339,Casa,Venda,São Luís/MA,Centro,4,4,0,240000,Pereira Feitosa
+340,Apartamento,Venda,São Luís/MA,Turu,3,1,0,300000,Pereira Feitosa
+341,Casa,Venda,São Luís/MA,Recanto Vinhais,3,2,0,600000,Pereira Feitosa
+342,Apartamento,Venda,São Luís/MA,Cohafuma,2,1,1,350000,Pereira Feitosa
+343,Casa,Venda,São Luís/MA,Renascença,4,2,0,550000,Pereira Feitosa
+344,Casa,Venda,São Luís/MA,Centro,3,0,0,300000,Pereira Feitosa
+345,Casa,Venda,São Luís/MA,Angelim,3,1,0,380000,Pereira Feitosa
+346,Apartamento,Venda,São Luís/MA,Jardim Renascença,1,0,0,300000,Pereira Feitosa
+347,Casa,Venda,São Luís/MA,Quintas do Calhau,4,2,0,450000,Pereira Feitosa
+348,Casa,Venda,São Luís/MA,Alemanha,2,0,0,200000,Pereira Feitosa
+349,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,0,0,0,700000,Pereira Feitosa
+350,Casa,Venda,São Luís/MA,Olho D Água,1,0,0,450000,Pereira Feitosa
+351,Apartamento,Venda,São Luís/MA,Vila Palmeira,2,1,1,340000,Pereira Feitosa
+352,Apartamento,Venda,São Luís/MA,Vila Palmeira,2,1,1,340000,Pereira Feitosa
+353,Apartamento,Venda,São Luís/MA,Cohafuma,2,1,0,340000,Pereira Feitosa
+354,Apartamento,Venda,São Luís/MA,Cohafuma,4,3,0,700000,Pereira Feitosa
+355,Casa,Venda,São Luís/MA,Vinhais,3,2,0,550000,Pereira Feitosa
+356,Casa,Venda,São Luís/MA,Turu,3,1,0,430000,Pereira Feitosa
+357,Casa,Venda,São Luís/MA,Calhau,6,4,5,1200000,Pereira Feitosa
+358,Casa,Venda,São Luís/MA,Parque Shalon,4,3,0,700000,Pereira Feitosa
+359,Casa,Venda,São Luís/MA,Olho D Água,4,3,0,480000,Pereira Feitosa
+360,Apartamento,Venda,São Luís/MA,Ponta do Farol,2,1,0,450000,Pereira Feitosa
+361,Casa,Venda,São Luís/MA,Olho D Água,4,3,3,1500000,Pereira Feitosa
+362,Casa,Venda,São Luís/MA,Residencial Vinhais II,4,1,3,450000,Pereira Feitosa
+363,Casa,Venda,São Luís/MA,Jardim Coelho Neto,4,1,0,480000,Pereira Feitosa
+364,Casa,Venda,São Luís/MA,Turu,7,4,0,750000,Pereira Feitosa
+365,Casa,Venda,São Luís/MA,Divinéia,3,1,0,350000,Pereira Feitosa
+366,Apartamento,Venda,São Luís/MA,Cohafuma,3,2,0,517000,Pereira Feitosa
+367,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,2,2,1200000,Pereira Feitosa
+368,Casa,Venda,São Luís/MA,Vinhais,4,1,0,350000,Pereira Feitosa
+369,Apartamento,Venda,São Luís/MA,Cohafuma,3,3,0,780000,Pereira Feitosa
+370,Casa,Venda,São Luís/MA,Vinhais,4,0,0,400000,Pereira Feitosa
+371,Apartamento,Venda,São Luís/MA,Ponta da areia,3,3,0,1000000,Pereira Feitosa
+372,Casa,Venda,São Luís/MA,Vinhais,6,4,2,360000,Pereira Feitosa
+373,Casa,Venda,São Luís/MA,Jardim Renascença,4,2,3,630000,Pereira Feitosa
+374,Casa,Venda,São Luís/MA,Vinhais,3,1,0,430000,Pereira Feitosa
+375,Casa,Venda,São Luís/MA,Residencial Esperança,3,2,0,450000,Pereira Feitosa
+376,Casa,Venda,São José de Ribamar/MA,Jardim Aracagy,0,0,0,900000,Pereira Feitosa
+377,Apartamento,Venda,São Luís/MA,Turu,3,1,1,330000,Pereira Feitosa
+378,Casa,Venda,São Luís/MA,Ipem São Cristovão,0,0,0,410000,Pereira Feitosa
+379,Casa,Venda,São Luís/MA,Ponta do Farol,3,3,1,800000,Pereira Feitosa
+380,Casa,Venda,São Luís/MA,Jardim São Cristovão II,2,1,0,170000,Pereira Feitosa
+381,Casa,Venda,São Luís/MA,Quintas do Calhau,4,4,4,980000,Pereira Feitosa
+382,Casa,Venda,São Luís/MA,Cidade Operária,4,3,0,1700000,Pereira Feitosa
+383,Apartamento,Venda,São Luís/MA,Jardim Renascença,2,1,2,480000,Pereira Feitosa
+384,Casa,Venda,São Luís/MA,Bequimão,3,3,3,320000,Pereira Feitosa
+385,Apartamento,Venda,São Luís/MA,Ponta da areia,2,2,2,600000,Pereira Feitosa
+386,Casa,Venda,São Luís/MA,Vila Ivar Saldanha,0,0,0,280000,Pereira Feitosa
+387,Casa,Venda,São Luís/MA,Jardim São Cristovão,2,1,1,250000,Pereira Feitosa
+388,Casa,Venda,São Luís/MA,Centro,5,1,0,650000,Pereira Feitosa
+389,Casa,Venda,São Luís/MA,Vila Passos,5,3,0,170000,Pereira Feitosa
+390,Apartamento,Venda,São Luís/MA,Ponta da areia,4,3,0,650000,Pereira Feitosa
+391,Casa,Venda,São Luís/MA,COHAB Anil III,3,1,0,290000,Pereira Feitosa
+392,Apartamento,Venda,São Luís/MA,Jardim Renascença,3,2,0,620000,Pereira Feitosa
+393,Casa,Venda,São Luís/MA,Turu,2,1,0,470000,Pereira Feitosa
+394,Apartamento,Venda,São Luís/MA,Cohafuma,3,1,0,400000,Pereira Feitosa
